@@ -39,7 +39,7 @@ Next steps:
   - Recommended match choices for a Dallas-based fan with a limited budget
 
 ## Tools
-- Python 3.13.x
+- Python 3.11.x
 - pandas, matplotlib, seaborn
 - Jupyter notebooks
 - SQL (e.g., SQLite or Postgres)
