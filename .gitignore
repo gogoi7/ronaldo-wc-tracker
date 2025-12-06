@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# Data (you'll add large datasets here later)
+data/raw/*.csv
+data/raw/*.json
+
+# OS
+.DS_Store
